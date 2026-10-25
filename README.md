@@ -4,6 +4,8 @@ Software Engineer at [Doctolib](https://www.doctolib.fr/).
 
 Coding since 2020, based in Paris. Former professional athlete with national titles, still addicted to sports. Dad of two cats.
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=adelbeke)
+
 ## Projects
 
 - [git-clean-branches](https://github.com/adelbeke/git-clean-branches) · Interactive git branch deletion, ZSH plugin
