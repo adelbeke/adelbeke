@@ -4,7 +4,7 @@ Software Engineer at [Doctolib](https://www.doctolib.fr/).
 
 Coding since 2020, based in Paris. Former professional athlete with national titles, still addicted to sports. Dad of two cats.
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=adelbeke)
+Falling in love with Open Source.
 
 ## Projects
 
